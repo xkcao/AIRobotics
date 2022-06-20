@@ -19,6 +19,7 @@
 - http://research.baidu.com/
 
 ## Robotics
+- https://firstwa.org/
 - https://www.amazon.com/Introducing-Amazon-Astro/dp/B078NSDFSB
 - https://www.irobot.com/
 - https://www.digitaldreamlabs.com/pages/cozmo
