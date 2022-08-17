@@ -1,5 +1,10 @@
 # AIRobotics
 
+## Missions
+- Free peoples from Dangerous, Boring or Repetitive tasks.
+- Support humans in distant explorations, such as Space, Undersea, etc.
+- Enhance peoples' lives and experiences.
+
 ## Data Science
 - https://towardsdatascience.com/
 - https://www.datasciencecentral.com
