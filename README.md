@@ -1,7 +1,7 @@
 # AIRobotics
 
 ## Missions
-- Improve peoples' lives and experiences.
+- Improve peoples' lives and experiences through Technology and Innovations.
 - Free peoples from Dangerous, Boring or Repetitive tasks.
 - Support humans in distant explorations, such as Space, Undersea, etc.
 
