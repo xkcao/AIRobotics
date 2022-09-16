@@ -3,7 +3,7 @@
 ## Missions
 - Improve peoples' lives and experiences through Technology and Innovations.
 - Free peoples from Dangerous, Boring or Repetitive tasks.
-- Support humans in distant explorations, such as Space, Undersea, etc.
+- Support humanity in distant explorations, such as Space, Undersea, etc.
 
 ## Data Science
 - https://towardsdatascience.com/
